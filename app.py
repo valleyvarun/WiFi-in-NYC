@@ -316,7 +316,7 @@ st.markdown(
     """
     <hr>
     <p style="text-align:center; color: gray; font-size: smaller;">
-        Streamlit App made by **Varun SA · MS CDP 2025‑26 · Columbia University**
+        Streamlit App made by **Varun SA · MS CDP 2025‑26 · Columbia University** Version 1.1
     </p>
     """,
     unsafe_allow_html=True,
