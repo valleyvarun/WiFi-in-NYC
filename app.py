@@ -1,7 +1,7 @@
 # ===============================
 # Import required libraries
 # ===============================
-import folium.map
+# import folium.map
 import streamlit as st  # For building the web app interface
 import pandas as pd  # For working with tabular data
 import folium  # For creating interactive maps
