@@ -9,8 +9,6 @@ from streamlit_folium import st_folium  # For displaying folium maps inside Stre
 import geopandas as gpd  # For working with geospatial data (shapefiles, etc.)
 from geodatasets import get_path  # for borough shapes
 import plotly.express as px
-from folium.plugins import MarkerCluster
-import time
 
 
 # ===============================
