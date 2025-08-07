@@ -5,3 +5,5 @@ geopandas
 geodatasets
 plotly
 streamlit-folium
+streamlit-geolocation
+requests
